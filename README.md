@@ -1,0 +1,2 @@
+# spoofyparty
+spotify party helper
